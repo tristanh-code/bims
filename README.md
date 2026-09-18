@@ -1,5 +1,6 @@
 # BIMS
 ![Static Badge](https://img.shields.io/badge/made_with-python-green?logo=python&link=python.org)
+
 ![Demo image](screenshot.png)
 
 BIMS is a basic GUI inventory management system for cataloguing books. It uses a locally-stored SQLite3 database to perform CRUD actions.
