@@ -16,9 +16,9 @@ First, clone the repo `git clone https://github.com/tristanh-code/bookstore-inve
 - Save commits changes to the database.
 - Clear empties all fields for the book you are viewing but does not commit any changes.
 - You will receive confirmation from a pop-up window when your changes are successful or an error message if they are not.
+- The database comes prepopulated for demo purposes, but you can run `python empty_bookstore_db.py` to remove all records. 
 
 ## Notes
 
-The database bookstore.db comes prepopulated for demo purposes, but you can run `python empty_bookstore_db.py` to remove all records. 
 I kept this program super lightweight - no database server, unobtrusive interface. 
 So, it looks plain. At some point, I would like to try another approach with a more full-featured GUI using PyQT and maybe use MariaDB in a Docker container.
