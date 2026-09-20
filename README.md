@@ -19,5 +19,6 @@ First, clone the repo `git clone https://github.com/tristanh-code/bookstore-inve
 
 ## Notes
 
+The database bookstore.db comes prepopulated for demo purposes, but you can run `python empty_bookstore_db.py` to remove all records. 
 I kept this program super lightweight - no database server, unobtrusive interface. 
 So, it looks plain. At some point, I would like to try another approach with a more full-featured GUI using PyQT and maybe use MariaDB in a Docker container.
