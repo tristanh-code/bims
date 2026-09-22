@@ -3,7 +3,7 @@
 
 ![Demo image](screenshot.png)
 
-BIMS is a basic GUI inventory management system for cataloguing books. It uses a locally-stored SQLite3 database to perform CRUD actions.
+BIMS is a basic GUI inventory management system for cataloging books. It uses a locally-stored SQLite3 database to perform CRUD actions.
 
 ## Installation
 
